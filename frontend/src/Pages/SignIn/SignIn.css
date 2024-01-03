@@ -1,0 +1,27 @@
+.SignIn-Container {
+    width: 350px;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: var(--yellow-background-gradient);
+    border-radius: 20px;
+}
+
+.SignIn-rounded-container {
+    width: 400px;
+    border-radius: 12% 10% 0% 0% / 5% 5% 0% 0%;
+    background-color: var(--form-background-color);
+    margin-top: 41px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 50px;
+}
+
+
+.SignIn-form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}

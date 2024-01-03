@@ -1,0 +1,11 @@
+.SelectCategoryContainer {
+    width: 411px;
+    height: 842px;
+
+}
+
+.SelectCategoryOptionsWrapper {
+    width: 351px;
+    height: 285px;
+    flex-shrink: 0;
+}

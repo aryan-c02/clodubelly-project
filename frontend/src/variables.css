@@ -1,0 +1,16 @@
+:root {
+    --form-background-color: #F7F7F7;
+    --main-background-color: #f0f2f5;
+    --main-border-color: #383838;
+    --form-item-width: 351px;
+    --main-font-family: 'Jost';
+
+    --grey-background-color: #e5e5e5;
+    --width-nominal-value: 1440;
+    --height-nominal-value: 1025;
+    --width-nominal-value-mobile: 100vw/360;
+    --height-nominal-value-mobile: 100vh/800;
+    --yellow-background-color: #FFA500;
+    --yellow-background-gradient: linear-gradient(0deg, #FFA500 0%, #FFA500 100%),
+        #E6AE35;
+}

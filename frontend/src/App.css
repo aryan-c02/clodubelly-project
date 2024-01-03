@@ -1,0 +1,14 @@
+.App {
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    min-height: 550px;
+    min-width: 350px;
+
+
+
+
+    /* background: linear-gradient(0deg, #FFA500 0%, #FFA500 100%), #E6AE35; */
+}
